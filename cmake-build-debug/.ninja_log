@@ -1,0 +1,4 @@
+# ninja log v6
+9	498	7630981596865973	CMakeFiles/Common_Occurrence_With_Dynamic_Stacks.dir/DynStringStack.cpp.obj	f4b046fb6dd263d9
+2	501	7630981596794299	CMakeFiles/Common_Occurrence_With_Dynamic_Stacks.dir/main.cpp.obj	e8bc13710cc0340a
+501	609	7630981601788046	Common_Occurrence_With_Dynamic_Stacks.exe	c7ffe9fcc9f791a2
